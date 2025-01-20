@@ -7,8 +7,9 @@ public class ConnectionDao {
 
     public static Connection getConnection() {
         final String dburl = "jdbc:mysql://localhost:3306/customerItemDB";
-        final String dbuser = "root";
-        final String dbpassword = "mySQL3@!";
+        final String dbuser = null;
+        final String dbpassword = null;
+
 
         try{
             connection = DriverManager.getConnection(dburl, dbuser, dbpassword);
