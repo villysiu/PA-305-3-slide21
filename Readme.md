@@ -19,8 +19,5 @@ id(int), name(varchar), price(decimal(4,2)).</p>
 </p>
 <p>Create additional classes and attributes.</p>
 
-<p>
-To start, 
-in /utility/ConnectionDao,
-update database info.
-</p>
+<h3>P.S.</h3>
+Ensure you create a customerItemDB database before running the Spring boot application. Also, change the MySQL username and password as per the MySQL installation on your machine.
