@@ -1,3 +1,6 @@
+<li>Villy Siu</li>
+<li>Daniel Noa</li>
+
 <h1>Practice assignment</h1>
 
 <h3>Create Table in Database:</h3>
